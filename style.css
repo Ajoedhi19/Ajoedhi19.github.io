@@ -1,0 +1,175 @@
+.navbar {
+  background-color: lightgray;
+}
+
+.jumbotron {
+  padding: 6rem;
+  background-color: #ffffff;
+  text-align: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/background.jpg");
+  background-size: 100%;
+  color: white;
+}
+
+.jumbotron .img {
+  vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.jumbotron .img:hover {
+  opacity: 0.5;
+}
+
+.jumbroton p {
+  padding-top: 10px;
+  font-weight: normal;
+}
+
+#Profil {
+  background-color: w;
+}
+
+.container .AboutMe {
+  text-align: center;
+  padding-top: 150px;
+}
+
+.container .Profil .container p {
+  width: 1000px;
+  height: 200px;
+  text-align: center;
+}
+
+#pendidikan {
+  margin: auto;
+  padding: 150px;
+}
+
+#pendidikan h2 {
+  text-align: center;
+}
+#pendidikan p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14;
+}
+
+#pendidikan .card {
+  width: 350px;
+  height: 400px;
+  margin: auto;
+  font-weight: bold;
+}
+
+#Skill {
+  margin: 0;
+  padding: 0;
+  height: 450px;
+  background-color: white;
+}
+.column {
+  width: 50%;
+  float: left;
+}
+.right {
+  width: 60%;
+}
+.left {
+  width: 40%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.top,
+.mid,
+.bot {
+  margin-left: 150px;
+}
+.top {
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+  color: #11475e;
+  font-style: bold;
+  margin-bottom: 0;
+  text-align: center;
+}
+.mid {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18;
+  color: #11475e;
+  margin: 0;
+  padding-left: 150px;
+  margin-top: 0cm;
+}
+.bot {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20;
+  color: black;
+}
+.empty {
+  text-size-adjust: 0;
+  text-align: center;
+  color: #11475e;
+}
+#pr-bar {
+  padding: 0;
+  width: 80%;
+  background-color: #c0bbbb59;
+  border-radius: 20px;
+  line-height: 5mm;
+}
+.skill {
+  margin: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  line-height: 2;
+}
+#PS1 {
+  margin-top: 20px;
+  width: 75%;
+  background-color: #11475e;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  line-height: 10px;
+}
+#PS2 {
+  width: 40%;
+  background-color: #11475e;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  line-height: 10px;
+}
+#PS3 {
+  width: 7%;
+  background-color: #11475e;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  line-height: 10px;
+}
+#PS4 {
+  width: 60%;
+  background-color: #11475e;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  line-height: 10px;
+}
+
+#kontak {
+  margin: 0 auto;
+  background-color: lightgrey;
+}
+
+#kontak .container {
+  display: inline;
+  text-align: center;
+}
+
+footer {
+  height: 50px;
+  background-color: lightgrey;
+  text-align: center;
+  padding: 15px;
+}
